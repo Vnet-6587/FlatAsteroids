@@ -1,0 +1,24 @@
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\bin\Debug\net6.0\Flat.deps.json
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\bin\Debug\net6.0\Flat.dll
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\bin\Debug\net6.0\Flat.pdb
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.csproj.AssemblyReference.cache
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.AssemblyInfoInputs.cache
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.AssemblyInfo.cs
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.csproj.CoreCompileInputs.cache
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.dll
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\refint\Flat.dll
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\Flat.pdb
+C:\Users\czerw\Desktop\MonoGame coding begginings\MonoGamePalTester\Flat\obj\Debug\net6.0\ref\Flat.dll
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\bin\Debug\net6.0\Flat.deps.json
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\bin\Debug\net6.0\Flat.dll
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\bin\Debug\net6.0\Flat.pdb
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.csproj.AssemblyReference.cache
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.AssemblyInfoInputs.cache
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.AssemblyInfo.cs
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.csproj.CoreCompileInputs.cache
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.dll
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\refint\Flat.dll
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\Flat.pdb
+C:\Users\uczen\Desktop\FlatAsteroids\Flat\obj\Debug\net6.0\ref\Flat.dll
